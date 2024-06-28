@@ -2,11 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Project Name (**SAVER**)   (Let's launch this project!)
 
-# Description
+## Description
 
 This project is a dynamic and user-friendly web application built with Next.js, providing a seamless experience (think smooth sailing ⛵️!). Get ready for a delightful user journey  ✨!
 
-# Table of Contents
+## Table of Contents
 
 - Getting Started (First things first! )
 - Tech Stack (The building blocks )
@@ -21,7 +21,7 @@ Clone the Repository:
 git clone https://github.com/<your-username>/<your-repo-name>.git
 ```
 
-# Install Dependencies:
+## Install Dependencies:
 
 ```
 npm install
