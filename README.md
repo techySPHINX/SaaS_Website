@@ -48,11 +48,11 @@ Open http://localhost:3000 in your browser to view the application  .
 
 We've used a powerful combination of technologies to build this awesome project:
 
-**Next.js**(⚛️): For building performant and scalable server-rendered and statically generated web applications (Next.js is the star of the show! ).
-**MySQL** (️): A robust relational database for persistent data storage (think of it as a secure vault for your data).
-**Prisma** (): A powerful data access layer for interacting with your MySQL database in a type-safe and efficient way (Prisma is like magic 🪄 for data!).
-**Stripe** (): Secure and convenient online payment processing for your application (Stripe makes payments a breeze !).
-Project Name (**Saver**)   (Let's launch this project!)
+- **Next.js**(⚛️): For building performant and scalable server-rendered and statically generated web applications (Next.js is the star of the show! ).
+- **MySQL** (️): A robust relational database for persistent data storage (think of it as a secure vault for your data).
+- **Prisma** (): A powerful data access layer for interacting with your MySQL database in a type-safe and efficient way (Prisma is like magic 🪄 for data!).
+- **Stripe** (): Secure and convenient online payment processing for your application (Stripe makes payments a breeze !).
+- Project Name (**Saver**)   (Let's launch this project!)
 
 
 
